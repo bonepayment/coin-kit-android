@@ -26,8 +26,8 @@ class CoinKit(private val coinManager: CoinManager) {
         return coinManager.getCoin(type.getCoinId())
     }
 
-    fun saveCoins(coins: List<Coin>) {
-        return coinManager.saveCoins(coins)
+    fun saveCoin(coin: Coin) {
+        return coinManager.saveCoin(coin)
     }
 
     companion object {
