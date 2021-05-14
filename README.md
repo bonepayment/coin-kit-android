@@ -1,1 +1,3 @@
-# coin-kit-android
+# CoinKit
+
+Unstoppable coins data manager kit
