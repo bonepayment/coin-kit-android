@@ -2,6 +2,20 @@
   "version": 12,
   "coins": [
     {
+      "title": "B1P",
+      "code": "B1P",
+      "decimal": 18,
+      "type": "bep20",
+      "address": "0x44b6f4e0d1207024c484a55d2ecf5b0067ccf057"
+    },
+    {
+      "title": "B1P",
+      "code": "B1P",
+      "decimal": 18,
+      "type": "erc20",
+      "address": "0x4b742b5bdb1d252907ae7f399a891d4a178dbc24"
+    },
+    {
       "title": "Bitcoin",
       "code": "BTC",
       "decimal": 8,
